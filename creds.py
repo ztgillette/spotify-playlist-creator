@@ -1,0 +1,2 @@
+CID = "edbb45c834cb45bcb5c4cebcc09ec798"
+SECRET = "5e01fc367b79406eb99cd4048106b23e"
